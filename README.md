@@ -1,4 +1,4 @@
-# MidnightBSD Source Tree
+# MidnightOS Source Tree
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/13525/badge)](https://www.bestpractices.dev/projects/13525)
 
